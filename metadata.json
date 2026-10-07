@@ -1,0 +1,6 @@
+{
+  "name": "AI-StudyMate",
+  "description": "AI study assistant for engineering PDFs featuring RAG semantic search, grounded Q&A, and interactive MCQ quiz generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

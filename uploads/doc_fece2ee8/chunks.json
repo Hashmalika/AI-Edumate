@@ -1,0 +1,20 @@
+[
+  {
+    "document_id": "doc_fece2ee8",
+    "page": 1,
+    "chunk_id": "doc_fece2ee8_p1_c0",
+    "text": "LECTURE 1: INTRODUCTION TO FEEDBACK CONTROL SYSTEMS In electrical and mechanical engineering, a closed-loop control system utilizes feedback to compare the The canonical closed-loop transfer function is given by T(s) = G(s) / (1 + G(s)H(s)), where H(s) is the fe Key Assumption: The system is assumed to be linear and time-invariant (LTI) throughout this analysis."
+  },
+  {
+    "document_id": "doc_fece2ee8",
+    "page": 2,
+    "chunk_id": "doc_fece2ee8_p2_c1",
+    "text": "LECTURE 2: FIRST AND SECOND LAWS OF THERMODYNAMICS The First Law of Thermodynamics states that energy cannot be created or destroyed, only transformed The Carnot cycle represents an idealized thermodynamic cycle with the maximum theoretical efficiency Fourier's Law of Thermal Conduction governs heat transfer through a solid medium: q = -k * (dT / dx), w"
+  },
+  {
+    "document_id": "doc_fece2ee8",
+    "page": 3,
+    "chunk_id": "doc_fece2ee8_p3_c2",
+    "text": "LECTURE 3: FLUID STATICS AND INCOMPRESSIBLE FLOW Bernoulli's equation describes the conservation of energy along a streamline in steady, incompressible, The Reynolds number (Re) is a dimensionless quantity defining the ratio of inertial forces to viscous for Viscosity mu is measured in Pascal-seconds (Pa*s) and density rho in kg/m^3."
+  }
+]
